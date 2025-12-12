@@ -42,3 +42,5 @@ A machine learning web application that predicts sales for a superstore based on
 
 ## Dataset
 Sample Superstore dataset with 9,994 transactions
+## Live Demo
+🚀 [Try the live app here](https://supermarket-sales-analysis-txxdf4ph5lpqtuamkwud9q.streamlit.app/)
